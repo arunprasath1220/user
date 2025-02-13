@@ -1,0 +1,37 @@
+#head{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(46, 133, 133);
+    margin-top: 245px;
+}
+#inp1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 665px;
+    width: 185px;
+    height: 20px;
+}
+#inp2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 665px;
+    width: 185px;
+    margin-top: 15px;
+    height: 20px;
+}
+#btn{
+    margin-left: 735px;
+    margin-top: 25px;
+    width: 65px;
+    height: 25px;
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+    border-radius: 5px;
+}
+#log{
+    
+}
